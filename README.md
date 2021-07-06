@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salaimuniselvam
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning advanced java.
-- 💞️ I’m looking to collaborate on open source java or frontend web development projects.
+- 🌱 I’m currently learning reactjs
+- 💞️ I’m looking to collaborate on open source frontend web development projects.
 - 📫 How to reach me @wapp-7708215211
 
 
